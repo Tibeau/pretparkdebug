@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\web",
+    "\\test",
+    "\\test\\fact",
+    "\\test\\fact\\it",
+    "\\test\\fact\\it\\www",
+    "\\test\\fact\\it\\www\\beans"
+  ],
+  "SelectedNode": "\\test\\fact\\it\\www",
+  "PreviewInSolutionExplorer": false
+}

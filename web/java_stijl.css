@@ -1,0 +1,41 @@
+
+
+/*
+ *Tibeau Vandenbroeck
+ r0740502 
+ */
+
+
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+h1 {
+    background-color: orange;
+    padding: 50px;
+}
+
+h2 {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+p {
+    color: orange;
+    padding: 10px;
+}
+
+
+a {
+    color: orange;
+    padding: 10px;
+}
+
+a:hover {
+    color: black;
+    background-color: orange;
+}
+
+
